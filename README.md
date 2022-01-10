@@ -28,10 +28,8 @@ I like to explore landscapes and history; make digital maps; program; and social
 
 <br>
 
-<b>where can i find you online?</b>
-- [twitter](https://twitter.com/shelbyjgreen)
-- [email](mailto:shelby@togethernotfor.com)
-
+<b>where can i find you online?: [twitter](https://twitter.com/shelbyjgreen) and [email](mailto:shelby@togethernotfor.com)
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shelbygreen)
   

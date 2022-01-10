@@ -19,19 +19,20 @@ I like to explore landscapes and history; make digital maps; program; and social
 
 <b>what am i building?</b>
 - a twitter/IG bot that makes daily posts about local black history
+- a legislation tracker/newsletter 
 
 <br>
 
 <b>what am i learning/thinking about?</b>
-- how to encourage the conversion of anger into action
-- how to regulate public utilities
+- how to convert anger into action
+- regulating public utilities via NARUC
 
 <br>
 
-<b>where can i find you online?: [twitter](https://twitter.com/shelbyjgreen) and [email](mailto:shelby@togethernotfor.com)
+<b>where to find me online?: [twitter](https://twitter.com/shelbyjgreen) and [email](mailto:shelby@togethernotfor.com)
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shelbygreen)
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=shelbygreen" alt="visitor badge"/>
   
 <!--
 Special thanks for https://github.com/TheNextCEO. I got a lot of inspiration from his profile
